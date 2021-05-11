@@ -1,0 +1,9 @@
+D:\Projects\SteamApi\SteamApi.Profile.Common\bin\Debug\netcoreapp3.1\SteamApi.Profile.Common.deps.json
+D:\Projects\SteamApi\SteamApi.Profile.Common\bin\Debug\netcoreapp3.1\SteamApi.Profile.Common.dll
+D:\Projects\SteamApi\SteamApi.Profile.Common\bin\Debug\netcoreapp3.1\SteamApi.Profile.Common.pdb
+D:\Projects\SteamApi\SteamApi.Profile.Common\obj\Debug\netcoreapp3.1\SteamApi.Profile.Common.csprojAssemblyReference.cache
+D:\Projects\SteamApi\SteamApi.Profile.Common\obj\Debug\netcoreapp3.1\SteamApi.Profile.Common.AssemblyInfoInputs.cache
+D:\Projects\SteamApi\SteamApi.Profile.Common\obj\Debug\netcoreapp3.1\SteamApi.Profile.Common.AssemblyInfo.cs
+D:\Projects\SteamApi\SteamApi.Profile.Common\obj\Debug\netcoreapp3.1\SteamApi.Profile.Common.csproj.CoreCompileInputs.cache
+D:\Projects\SteamApi\SteamApi.Profile.Common\obj\Debug\netcoreapp3.1\SteamApi.Profile.Common.dll
+D:\Projects\SteamApi\SteamApi.Profile.Common\obj\Debug\netcoreapp3.1\SteamApi.Profile.Common.pdb

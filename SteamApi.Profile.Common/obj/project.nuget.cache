@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJ7b6xrVD3PiZH9y7gyzl6QhJ9Rz5IZo5du8P+PDvqMfKMSfDmm9Ure3ac598bPUEV4U6nofJdq56A18n6iYCw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SteamApi\\SteamApi.Profile.Common\\SteamApi.Profile.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.12\\microsoft.extensions.configuration.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.12\\microsoft.extensions.configuration.abstractions.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.12\\microsoft.extensions.configuration.binder.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.12\\microsoft.extensions.dependencyinjection.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.12\\microsoft.extensions.dependencyinjection.abstractions.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.http\\3.1.12\\microsoft.extensions.http.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.logging\\3.1.12\\microsoft.extensions.logging.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.12\\microsoft.extensions.logging.abstractions.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.options\\3.1.12\\microsoft.extensions.options.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.12\\microsoft.extensions.primitives.3.1.12.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
